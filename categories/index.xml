@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Oliver Pincus</title>
+    <link>https://opincus.github.io/categories/</link>
+    <description>Recent content in Categories on Oliver Pincus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022 Oliver Pincus </copyright>
+    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate><atom:link href="https://opincus.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development</title>
+      <link>https://opincus.github.io/categories/development/</link>
+      <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
+      
+      <guid>https://opincus.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
